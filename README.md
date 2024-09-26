@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddharth-Tambat
-- 👀 I’m interested in Artifical Intelligence, Web and App Development!
-- 🌱 I’m currently learning Python Programming, C# and Machine Learning
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 🌱 I’m a Data Engineer / Analyst and Python Programmer
+- 👀 I’m interested in Gen AI, Web and App Development!
+- 💞️ I’m looking to collaborate on Gen AI
 - 📫 How to reach me - email: stambat4@gmail.com
 
 <!---
